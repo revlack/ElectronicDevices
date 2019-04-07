@@ -6366,11 +6366,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\EletronicDevices\\API\\EletronicDevicesApi\\UnitTestProject1\\EletronicDevicesApi.Test.csproj",
+      "projectUniqueName": "C:\\Projetos\\EletronicDevices\\API\\EletronicDevicesApi\\EletronicDevicesApi.Test\\EletronicDevicesApi.Test.csproj",
       "projectName": "EletronicDevicesApi.Test",
-      "projectPath": "C:\\Projetos\\EletronicDevices\\API\\EletronicDevicesApi\\UnitTestProject1\\EletronicDevicesApi.Test.csproj",
+      "projectPath": "C:\\Projetos\\EletronicDevices\\API\\EletronicDevicesApi\\EletronicDevicesApi.Test\\EletronicDevicesApi.Test.csproj",
       "packagesPath": "C:\\Users\\TEMP\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\EletronicDevices\\API\\EletronicDevicesApi\\UnitTestProject1\\obj\\",
+      "outputPath": "C:\\Projetos\\EletronicDevices\\API\\EletronicDevicesApi\\EletronicDevicesApi.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

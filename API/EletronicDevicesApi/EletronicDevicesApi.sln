@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EletronicDevicesApi", "EletronicDevicesApi\EletronicDevicesApi.csproj", "{4CE41103-EAF4-4F6D-A83E-62757D6EDEB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EletronicDevicesApi.Test", "UnitTestProject1\EletronicDevicesApi.Test.csproj", "{047B4D31-EE7C-4245-AD11-63E9190353C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EletronicDevicesApi.Test", "EletronicDevicesApi.Test\EletronicDevicesApi.Test.csproj", "{047B4D31-EE7C-4245-AD11-63E9190353C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
