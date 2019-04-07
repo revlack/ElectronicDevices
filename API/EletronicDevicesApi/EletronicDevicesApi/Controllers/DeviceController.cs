@@ -22,7 +22,7 @@ namespace EletronicDevicesApi.Controllers
 
         [Route("device/getall")]
         [HttpGet]
-        [SimpleSecurity]
+        [SimpleSecurityAttribute]
         public IActionResult GetAll()
         {
             try
@@ -47,7 +47,7 @@ namespace EletronicDevicesApi.Controllers
 
         [Route("category/getall")]
         [HttpGet]
-        [SimpleSecurity]
+        [SimpleSecurityAttribute]
         public IActionResult GetAllCategories()
         {
             try
@@ -71,7 +71,7 @@ namespace EletronicDevicesApi.Controllers
 
         [Route("device/getbyname")]
         [HttpGet]
-        [SimpleSecurity]
+        [SimpleSecurityAttribute]
         public IActionResult GetByName(string name)
         {
             try
@@ -96,7 +96,7 @@ namespace EletronicDevicesApi.Controllers
 
         [Route("site/device/getbyname")]
         [HttpGet]
-        [SimpleSecurity]
+        [SimpleSecurityAttribute]
         public IActionResult GetDtoByName(string name)
         {
             try

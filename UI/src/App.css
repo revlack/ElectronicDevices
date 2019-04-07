@@ -8,6 +8,10 @@
   pointer-events: none;
 }
 
+.device-image-loop{    width: 20em;
+  height: 13em;
+  float: left;}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -19,8 +23,34 @@
   color: white;
 }
 
+.white{
+  color: rgb(158, 155, 155);
+  text-decoration: none
+}
+
+.searchBar{width: 41%;
+  height: 31px;
+  border: 0;
+}
+.buttonBar{width: 41%;
+  height: 31px;
+  background: #61dafb;
+  border: 0;
+  cursor: pointer;
+}
+.loop-device {margin-top: 2em;
+background: white;
+width: 100%;
+}
 .App-link {
   color: #61dafb;
+}
+.device-item{
+  color: black;
+  max-height: 17em;
+  display: block;
+  float: none;
+
 }
 
 @keyframes App-logo-spin {
