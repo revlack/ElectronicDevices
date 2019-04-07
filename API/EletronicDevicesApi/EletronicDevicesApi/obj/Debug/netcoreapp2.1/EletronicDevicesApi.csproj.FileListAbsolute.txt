@@ -13,3 +13,4 @@ C:\Projetos\EletronicDevices\API\EletronicDevicesApi\EletronicDevicesApi\obj\Deb
 C:\Projetos\EletronicDevices\API\EletronicDevicesApi\EletronicDevicesApi\obj\Debug\netcoreapp2.1\EletronicDevicesApi.dll
 C:\Projetos\EletronicDevices\API\EletronicDevicesApi\EletronicDevicesApi\obj\Debug\netcoreapp2.1\EletronicDevicesApi.pdb
 C:\Projetos\EletronicDevices\API\EletronicDevicesApi\EletronicDevicesApi\obj\Debug\netcoreapp2.1\EletronicDevicesApi.csproj.CopyComplete
+C:\Projetos\EletronicDevices\API\EletronicDevicesApi\EletronicDevicesApi\obj\Debug\netcoreapp2.1\EletronicDevicesApi.csprojAssemblyReference.cache
