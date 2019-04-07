@@ -1,9 +1,15 @@
-﻿################################################################################
+################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
 /.vs
+/UI/node_modules
+/API/EletronicDevicesApi/EletronicDevicesApi/obj/Debug
 /API/EletronicDevicesApi/EletronicDevicesApi/bin/Debug/netcoreapp2.1
 /API/EletronicDevicesApi/.vs/EletronicDevicesApi/v15
 /API/EletronicDevicesApi/.vs
 /API/EletronicDevicesApi/EletronicDevicesApi/bin/Debug/netcoreapp2.1
+/API/EletronicDevicesApi/EletronicDevicesApi/obj
+/API/EletronicDevicesApi/EletronicDevicesApi.Test/obj
+/API/EletronicDevicesApi/EletronicDevicesApi.Test/bin/Debug/netcoreapp2.1
+
