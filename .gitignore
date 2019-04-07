@@ -10,3 +10,5 @@
 /API/EletronicDevicesApi/.vs
 /API/EletronicDevicesApi/EletronicDevicesApi/bin/Debug/netcoreapp2.1
 /API/EletronicDevicesApi/EletronicDevicesApi/obj
+/API/EletronicDevicesApi/EletronicDevicesApi.Test/obj
+/API/EletronicDevicesApi/EletronicDevicesApi.Test/bin/Debug/netcoreapp2.1
