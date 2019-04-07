@@ -1,2 +1,2 @@
 # ElectronicDevices
-a simple project for electronic devices search. It's could be a good template for your project ! 
+a simple project for electronic devices search. It could be a good template for your project ! 
