@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EletronicDevicesApi", "EletronicDevicesApi\EletronicDevicesApi.csproj", "{4CE41103-EAF4-4F6D-A83E-62757D6EDEB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EletronicDevicesApi.Test", "UnitTestProject1\EletronicDevicesApi.Test.csproj", "{047B4D31-EE7C-4245-AD11-63E9190353C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CE41103-EAF4-4F6D-A83E-62757D6EDEB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE41103-EAF4-4F6D-A83E-62757D6EDEB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE41103-EAF4-4F6D-A83E-62757D6EDEB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE41103-EAF4-4F6D-A83E-62757D6EDEB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{047B4D31-EE7C-4245-AD11-63E9190353C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{047B4D31-EE7C-4245-AD11-63E9190353C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{047B4D31-EE7C-4245-AD11-63E9190353C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{047B4D31-EE7C-4245-AD11-63E9190353C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7357EA4-BF5D-45C6-ABA6-462F465FB90D}
+	EndGlobalSection
+EndGlobal

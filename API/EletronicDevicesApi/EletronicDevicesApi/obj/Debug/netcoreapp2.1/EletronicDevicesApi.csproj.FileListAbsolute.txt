@@ -1,0 +1,15 @@
+C:\Projetos\EletronicDevices\API\EletronicDevicesApi\EletronicDevicesApi\bin\Debug\netcoreapp2.1\EletronicDevicesApi.deps.json
+C:\Projetos\EletronicDevices\API\EletronicDevicesApi\EletronicDevicesApi\bin\Debug\netcoreapp2.1\EletronicDevicesApi.runtimeconfig.json
+C:\Projetos\EletronicDevices\API\EletronicDevicesApi\EletronicDevicesApi\bin\Debug\netcoreapp2.1\EletronicDevicesApi.runtimeconfig.dev.json
+C:\Projetos\EletronicDevices\API\EletronicDevicesApi\EletronicDevicesApi\bin\Debug\netcoreapp2.1\EletronicDevicesApi.dll
+C:\Projetos\EletronicDevices\API\EletronicDevicesApi\EletronicDevicesApi\bin\Debug\netcoreapp2.1\EletronicDevicesApi.pdb
+C:\Projetos\EletronicDevices\API\EletronicDevicesApi\EletronicDevicesApi\bin\Debug\netcoreapp2.1\EletronicDevicesApi.Views.dll
+C:\Projetos\EletronicDevices\API\EletronicDevicesApi\EletronicDevicesApi\obj\Debug\netcoreapp2.1\EletronicDevicesApi.csproj.CoreCompileInputs.cache
+C:\Projetos\EletronicDevices\API\EletronicDevicesApi\EletronicDevicesApi\obj\Debug\netcoreapp2.1\EletronicDevicesApi.RazorAssemblyInfo.cache
+C:\Projetos\EletronicDevices\API\EletronicDevicesApi\EletronicDevicesApi\obj\Debug\netcoreapp2.1\EletronicDevicesApi.RazorAssemblyInfo.cs
+C:\Projetos\EletronicDevices\API\EletronicDevicesApi\EletronicDevicesApi\obj\Debug\netcoreapp2.1\EletronicDevicesApi.AssemblyInfoInputs.cache
+C:\Projetos\EletronicDevices\API\EletronicDevicesApi\EletronicDevicesApi\obj\Debug\netcoreapp2.1\EletronicDevicesApi.AssemblyInfo.cs
+C:\Projetos\EletronicDevices\API\EletronicDevicesApi\EletronicDevicesApi\obj\Debug\netcoreapp2.1\EletronicDevicesApi.RazorTargetAssemblyInfo.cache
+C:\Projetos\EletronicDevices\API\EletronicDevicesApi\EletronicDevicesApi\obj\Debug\netcoreapp2.1\EletronicDevicesApi.dll
+C:\Projetos\EletronicDevices\API\EletronicDevicesApi\EletronicDevicesApi\obj\Debug\netcoreapp2.1\EletronicDevicesApi.pdb
+C:\Projetos\EletronicDevices\API\EletronicDevicesApi\EletronicDevicesApi\obj\Debug\netcoreapp2.1\EletronicDevicesApi.csproj.CopyComplete
