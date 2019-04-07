@@ -3,6 +3,8 @@
 ################################################################################
 
 /.vs
+/UI/node_modules
+/API/EletronicDevicesApi/EletronicDevicesApi/obj/Debug
 /API/EletronicDevicesApi/EletronicDevicesApi/bin/Debug/netcoreapp2.1
 /API/EletronicDevicesApi/.vs/EletronicDevicesApi/v15
 /API/EletronicDevicesApi/.vs
