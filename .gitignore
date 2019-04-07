@@ -5,3 +5,5 @@
 /.vs
 /API/EletronicDevicesApi/EletronicDevicesApi/bin/Debug/netcoreapp2.1
 /API/EletronicDevicesApi/.vs/EletronicDevicesApi/v15
+/API/EletronicDevicesApi/.vs
+/API/EletronicDevicesApi/EletronicDevicesApi/bin/Debug/netcoreapp2.1
